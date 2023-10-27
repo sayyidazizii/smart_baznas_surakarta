@@ -1,0 +1,60 @@
+[13-Mar-2023 04:57:51 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/ciptaprocpanel/public_html/smart_baznas_sragen/config/cache.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/ciptaprocpanel/public_html/smart_baznas_sragen/config/cache.php on line 18
+[13-Mar-2023 04:58:17 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/ciptaprocpanel/public_html/smart_baznas_sragen/config/cache.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/ciptaprocpanel/public_html/smart_baznas_sragen/config/cache.php on line 18
+[19-Mar-2023 07:22:05 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/ciptaprocpanel/public_html/smart_baznas_sragen/config/cache.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/ciptaprocpanel/public_html/smart_baznas_sragen/config/cache.php on line 18
+[19-Mar-2023 07:22:07 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/ciptaprocpanel/public_html/smart_baznas_sragen/config/cache.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/ciptaprocpanel/public_html/smart_baznas_sragen/config/cache.php on line 18
+[27-Mar-2023 09:27:05 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/ciptaprocpanel/public_html/smart_baznas_sragen/config/cache.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/ciptaprocpanel/public_html/smart_baznas_sragen/config/cache.php on line 18
+[27-Mar-2023 09:27:10 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/ciptaprocpanel/public_html/smart_baznas_sragen/config/cache.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/ciptaprocpanel/public_html/smart_baznas_sragen/config/cache.php on line 18
+[13-Apr-2023 00:44:37 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/ciptaprocpanel/public_html/smart_baznas_sragen/config/cache.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/ciptaprocpanel/public_html/smart_baznas_sragen/config/cache.php on line 18
+[13-Apr-2023 00:44:45 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/ciptaprocpanel/public_html/smart_baznas_sragen/config/cache.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/ciptaprocpanel/public_html/smart_baznas_sragen/config/cache.php on line 18
+[26-Apr-2023 21:54:02 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/ciptaprocpanel/public_html/smart_baznas_sragen/config/cache.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/ciptaprocpanel/public_html/smart_baznas_sragen/config/cache.php on line 18
+[26-Apr-2023 21:54:07 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/ciptaprocpanel/public_html/smart_baznas_sragen/config/cache.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/ciptaprocpanel/public_html/smart_baznas_sragen/config/cache.php on line 18
+[30-Jun-2023 19:56:00 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/ciptaprocpanel/public_html/smart_baznas_sragen/config/cache.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/ciptaprocpanel/public_html/smart_baznas_sragen/config/cache.php on line 18
+[30-Jun-2023 20:07:22 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/ciptaprocpanel/public_html/smart_baznas_sragen/config/cache.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/ciptaprocpanel/public_html/smart_baznas_sragen/config/cache.php on line 18
+[01-Sep-2023 22:57:09 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/ciptaprocpanel/public_html/smart_baznas_sragen/config/cache.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/ciptaprocpanel/public_html/smart_baznas_sragen/config/cache.php on line 18
+[01-Sep-2023 23:11:15 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/ciptaprocpanel/public_html/smart_baznas_sragen/config/cache.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/ciptaprocpanel/public_html/smart_baznas_sragen/config/cache.php on line 18
+[23-Sep-2023 18:27:28 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/ciptaprocpanel/public_html/smart_baznas_sragen/config/cache.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/ciptaprocpanel/public_html/smart_baznas_sragen/config/cache.php on line 18
